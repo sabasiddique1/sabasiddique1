@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Saba Siddique</h1>
+<h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 0;">
+  Hi 👋, I'm Saba Siddique
+  <img src="https://cultofthepartyparrot.com/flags/hd/pakistanparrot.gif" width="30" height="30" style="vertical-align: middle;"/>
+</h1>
+
+
 <h3 align="center">A committed front-end developer</h3>
 
 👨‍💻 All of my projects are available at [https://portfolio-website-phi-ten-96.vercel.app/](https://portfolio-website-phi-ten-96.vercel.app/)
