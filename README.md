@@ -110,6 +110,7 @@ From a non-tech background to building dynamic web applications, my development 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabasiddique1&show_icons=true&theme=radical" alt="Saba's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabasiddique1&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabasiddique1&layout=compact&exclude_lang=java+r&theme=radical" />
 </p>
 
 ---
