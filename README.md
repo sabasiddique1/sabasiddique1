@@ -71,7 +71,6 @@ From a non-tech background to building dynamic web applications, my development 
       <td style="vertical-align: top; padding: 10px; width: 50%;">
         Ethers.js – Web3Modal<br/>
         Solidity<br/>
-        MetaMask – WalletConnect
       </td>
     </tr>
     <tr>
@@ -80,13 +79,13 @@ From a non-tech background to building dynamic web applications, my development 
     </tr>
     <tr>
       <td style="vertical-align: top; padding: 10px; width: 50%;">
-        Node.js – Express.js<br/>
-        MongoDB (Mongoose) – Firebase
+        Node.js – Express.js - Nest.js<br/>
+        MongoDB (Mongoose) – Firebase - Postgresql
       </td>
       <td style="vertical-align: top; padding: 10px; width: 50%;">
         Git – GitHub<br/>
         Figma – Postman<br/>
-        Vercel – Netlify – Render
+        Vercel – Netlify
       </td>
     </tr>
   </table>
@@ -109,7 +108,10 @@ From a non-tech background to building dynamic web applications, my development 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabasiddique1&show_icons=true&theme=radical" alt="Saba's GitHub stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabasiddique1&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabasiddique1&layout=compact&exclude_lang=java+r&theme=radical" />
 </p>
 
