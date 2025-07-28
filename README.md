@@ -15,8 +15,8 @@
   </a>
 
   <!-- Email -->
-  <a href="mailto:sabasiddique001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sabasiddique001@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:sabasiddiqdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-sabasiddiqdev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"/>
   </a>
 
   <!-- LinkedIn -->
