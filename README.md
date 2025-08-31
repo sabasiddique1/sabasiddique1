@@ -102,22 +102,6 @@ From a non-tech background to building dynamic web applications, my development 
 ---
 
 <h3 style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif" width="30" height="30"/>
-   GitHub Stats
-</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabasiddique1&show_icons=true&theme=radical" alt="Saba's GitHub stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabasiddique1&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabasiddique1&layout=compact&exclude_lang=java+r&theme=radical" />
-</p>
-
----
-
-<h3 style="display: flex; align-items: center; gap: 8px;">
     <img src="https://cultofthepartyparrot.com/guests/hd/partyfsjal.gif" width="30" height="30"/>
     Fun Fact
 </h3>
