@@ -34,7 +34,7 @@
 
 From a non-tech background to building dynamic web applications, my development journey has been anything but conventional. My curiosity led me to explore the world of code, and I've been hooked ever since!
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
     <div>🔭 I’m currently working on <a href="https://github.com/sabasiddique1/project" target="_blank">Mint Muse</a> – an NFT Marketplace</div>
@@ -46,7 +46,7 @@ From a non-tech background to building dynamic web applications, my development 
       <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Typing" width="200" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
 ---
