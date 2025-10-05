@@ -66,7 +66,7 @@ From a non-tech background to building dynamic web applications, my development 
       <td style="vertical-align: top; padding: 10px; width: 50%;">
         JavaScript (ES6+) – React.js – Next.js<br/>
         Tailwind CSS – Ant Design – Material UI – ShadCN/UI<br/>
-        Framer Motion – React Icons – Lucide – AOS
+        Framer Motion – React Icons – Lucide
       </td>
       <td style="vertical-align: top; padding: 10px; width: 50%;">
         Ethers.js – Web3Modal<br/>
