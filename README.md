@@ -56,7 +56,7 @@ From a non-tech background to building dynamic web applications, my development 
   Technologies & Tools
 </h3>
 
-<div align="center">
+<!-- <div align="center">
   <table style="width: 80%; table-layout: fixed; text-align: left;">
     <tr>
       <th style="text-align: center; font-weight: bold; width: 50%;">🖥️ Front-End</th>
@@ -89,7 +89,7 @@ From a non-tech background to building dynamic web applications, my development 
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 ---
 
