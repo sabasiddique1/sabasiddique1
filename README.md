@@ -106,6 +106,3 @@ From a non-tech background to building dynamic web applications, my development 
 <blockquote>
   <code>From zero to deploying on Vercel like a pro — turns out passion compiles perfectly.</code>
 </blockquote>
-
----
-
