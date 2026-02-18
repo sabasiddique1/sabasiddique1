@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-   Next.js and React Front-End Developer | Full-Stack MERN Magician | Forever Curious | Transitioning to AI Engineering
+   Next.js and React Front End Developer | Full-Stack MERN Magician | Forever Curious | Transitioning to AI Engineering
 </h3>
 <p align="center">
   <!-- Portfolio -->
