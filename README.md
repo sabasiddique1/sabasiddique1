@@ -206,3 +206,17 @@ Recognized in official releases (skrub v0.7.2)
 <blockquote>
   <code>From zero to deploying on Vercel like a pro — turns out passion compiles perfectly.</code>
 </blockquote>
+
+
+<!--
+Full Stack Engineer
+React Developer
+Next.js Developer
+Node.js Engineer
+NestJS Developer
+PostgreSQL
+TypeScript
+Python AI Engineer
+Open Source Contributor
+Applied AI engineer
+-->
