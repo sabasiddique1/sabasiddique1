@@ -44,7 +44,7 @@
   About Me
 </h3>
 
-AI-Enabled Full Stack Engineer with 2.5+ years of experience building scalable SaaS and web applications using modern JavaScript and Python ecosystems.
+AI-Enabled Full Stack Engineer with 2.5+ years building scalable SaaS, APIs, and AI-integrated web applications using React, Node.js, NestJS, PostgreSQL, and Python.
 
 <!-- <table align="center">
   <tr>
