@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-    AI-Enabled Full Stack Engineer | React, Next.js, Node.js, TypeScript, Python | Open Source Contributor
+    AI-Enabled Full Stack Engineer | React js, Next.js, Node.js, TypeScript, Python | Open Source Contributor
 </h3>
 <p align="center">
   <!-- Portfolio -->
