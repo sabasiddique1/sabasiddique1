@@ -194,7 +194,7 @@ AI-Enabled Full Stack Engineer with 2.5+ years building scalable SaaS, APIs, and
 
 </p>
 
-Recognized in official releases (skrub v0.7.2) and (adenhive v0.6.2)
+Recognized in official releases (skrub v0.7.2), (adenhive v0.6.2) and (pgmpy v1.1.0)
 
 ---
 
