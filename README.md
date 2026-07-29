@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" alt="Waving Hand" />
-  I'm Saba Siddique
+  I'm Sabaa Siddique
   <img src="https://cultofthepartyparrot.com/flags/hd/pakistanparrot.gif" width="30" height="30" alt="Pakistan Parrot" />
 </h1>
 
@@ -16,19 +16,19 @@
 
 <p align="center">
   <a href="https://portfolio-website-phi-ten-96.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Sabaa%20Siddique-6f42c1?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio of Sabaa Siddique"/>
+    <img src="https://img.shields.io/badge/Portfolio-6f42c1?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio of Sabaa Siddique"/>
   </a>
   <a href="mailto:sabasiddiqdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sabasiddiqdev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Sabaa Siddique"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Sabaa Siddique"/>
   </a>
   <a href="https://www.linkedin.com/in/sabaa-siddique-26b6a31a5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sabaa%20Siddique-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn profile of Sabaa Siddique"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn profile of Sabaa Siddique"/>
   </a>
   <a href="https://www.kaggle.com/sabasiddiquedev" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Sabaa%20Siddique-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle profile of Sabaa Siddique"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle profile of Sabaa Siddique"/>
   </a>
   <a href="https://medium.com/@sabasiddique" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Sabaa%20Siddique-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium articles by Sabaa Siddique"/>
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium articles by Sabaa Siddique"/>
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 **AI-Enabled Full Stack Engineer** building scalable SaaS products, REST and GraphQL APIs, and AI-integrated web applications **since 2022**, using **React, Next.js, Node.js, NestJS, PostgreSQL and Python**.
 
-I work across the full product surface -- designing schemas and APIs, building the interfaces on top of them, and wiring in **LLM and RAG features** so they hold up in production rather than in a demo. I also contribute to open source Python libraries, which is where a lot of my instinct for clean interfaces and careful debugging comes from.
+I work across the full product surface — designing schemas and APIs, building the interfaces on top of them, and wiring in **LLM and RAG features** so they hold up in production rather than in a demo. I also contribute to open source Python libraries, which is where a lot of my instinct for clean interfaces and careful debugging comes from.
 
 ---
 
@@ -139,10 +139,10 @@ I work across the full product surface -- designing schemas and APIs, building t
 </h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Merged_Pull_Requests-41-2ea44f?style=flat-square&logo=git&logoColor=white" alt="41 merged pull requests"/>
-  <img src="https://img.shields.io/badge/Upstream_Repositories-8-0969da?style=flat-square&logo=github&logoColor=white" alt="8 upstream repositories"/>
-  <img src="https://img.shields.io/badge/Named_in-6_Releases-8250df?style=flat-square" alt="Named in 6 upstream releases"/>
-  <img src="https://img.shields.io/badge/Combined_Repo_Stars-112k+-bf8700?style=flat-square" alt="112000 combined repository stars"/>
+  <img src="https://img.shields.io/badge/41_Merged_PRs-2ea44f?style=flat-square&logo=git&logoColor=white" alt="41 merged pull requests"/>
+  <img src="https://img.shields.io/badge/8_Repositories-0969da?style=flat-square&logo=github&logoColor=white" alt="8 upstream repositories"/>
+  <img src="https://img.shields.io/badge/6_Releases-8250df?style=flat-square" alt="Named in 6 upstream releases"/>
+  <img src="https://img.shields.io/badge/112k+_Stars-bf8700?style=flat-square" alt="112000 combined repository stars"/>
 </p>
 
 <table>
@@ -192,7 +192,7 @@ Highlights: two new parameters in skrub's public API · a `ChronosForecaster` fi
 
 <p>
   <a href="https://github.com/sabasiddique1/oss-contributions" target="_blank">
-    <img src="https://img.shields.io/badge/Read_the_full_contribution_record-181717?style=for-the-badge&logo=github&logoColor=white" alt="Full open source contribution record"/>
+    <img src="https://img.shields.io/badge/Full_Contribution_Record-181717?style=for-the-badge&logo=github&logoColor=white" alt="Full open source contribution record"/>
   </a>
 </p>
 
