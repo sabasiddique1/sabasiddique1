@@ -1,170 +1,54 @@
 <h1 align="center">
   Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" alt="Waving Hand" /> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" alt="Waving Hand" />
   I'm Sabaa Siddique
   <img src="https://cultofthepartyparrot.com/flags/hd/pakistanparrot.gif" width="30" height="30" alt="Pakistan Parrot" />
 </h1>
 
 <h3 align="center">
-    AI-Enabled Full Stack Engineer | Next.js, Node.js, TypeScript, Python | AI Integration (LLMs, RAG) | Open Source Contributor
+  AI-Enabled Full Stack Engineer
 </h3>
+
 <p align="center">
-  <!-- Portfolio -->
-  <a href="https://portfolio-website-phi-ten-96.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Saba%20Siddique-6f42c1?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:sabasiddiqdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sabasiddiqdev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sabaa-siddique-26b6a31a5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Saba%20Siddique-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/sabasiddiquedev" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Saba%20Siddique-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-
-  <!-- medium -->
-  <a href="https://medium.com/@sabasiddique" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Saba%20Siddique-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  
+  Next.js &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; NestJS &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; PostgreSQL<br/>
+  <b>AI Integration — LLMs, RAG pipelines, AI-powered product features</b>
 </p>
 
+<p align="center">
+  <a href="https://portfolio-website-phi-ten-96.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Sabaa%20Siddique-6f42c1?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio of Sabaa Siddique"/>
+  </a>
+  <a href="mailto:sabasiddiqdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-sabasiddiqdev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Sabaa Siddique"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sabaa-siddique-26b6a31a5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sabaa%20Siddique-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn profile of Sabaa Siddique"/>
+  </a>
+  <a href="https://www.kaggle.com/sabasiddiquedev" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Sabaa%20Siddique-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle profile of Sabaa Siddique"/>
+  </a>
+  <a href="https://medium.com/@sabasiddique" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Sabaa%20Siddique-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium articles by Sabaa Siddique"/>
+  </a>
+</p>
 
 ---
 
-<h3 style="display: flex; align-items: center; gap: 8px;">
+<h3>
   <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30" alt="Parrot" />
   About Me
 </h3>
 
-AI-Enabled Full Stack Engineer with 2.5+ years building scalable SaaS, APIs, and AI-integrated web applications using React, Node.js, NestJS, PostgreSQL, and Python.
+**AI-Enabled Full Stack Engineer** building scalable SaaS products, REST and GraphQL APIs, and AI-integrated web applications **since 2022**, using **React, Next.js, Node.js, NestJS, PostgreSQL and Python**.
 
-<!-- <table align="center">
-  <tr>
-    <td>
-    <div>🔭 I’m currently working on <a href="https://github.com/sabasiddique1/project" target="_blank">Mint Muse</a> – an NFT Marketplace</div>
-      <div>🌱 I’m currently learning Next.js, Tailwind CSS, Redux Toolkit/Context API, Web3Modal, Ethers.js, Framer Motion</div>
-      <div>👯 I’m looking to collaborate on Mint Muse</div>
-      <div>💬 Ask me about React, Next.js, Tailwind CSS, Web3 Integration, Smart Contracts (Solidity), Node.js, Express.js, MongoDB, Shadcn</div>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Typing" width="200" />
-    </td>
-  </tr>
-</table> -->
-
-<!-- <h3 style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-  Technologies & Tools
-</h3> -->
-
-<!-- <div align="center">
-  <table style="width: 80%; table-layout: fixed; text-align: left;">
-    <tr>
-      <th style="text-align: center; font-weight: bold; width: 50%;">🖥️ Front-End</th>
-      <th style="text-align: center; font-weight: bold; width: 50%;">🔗 Web3 & Blockchain</th>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 10px; width: 50%;">
-        JavaScript (ES6+) – React.js – Next.js<br/>
-        Tailwind CSS – Ant Design – Material UI – ShadCN/UI<br/>
-        Framer Motion – React Icons – Lucide
-      </td>
-      <td style="vertical-align: top; padding: 10px; width: 50%;">
-        Ethers.js – Web3Modal<br/>
-        Solidity<br/>
-      </td>
-    </tr>
-    <tr>
-      <th style="text-align: center; font-weight: bold; width: 50%;">🛠️ Back-End & Database</th>
-      <th style="text-align: center; font-weight: bold; width: 50%;">🧰 Dev Tools & Workflow</th>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; padding: 10px; width: 50%;">
-        Node.js – Express.js - Nest.js<br/>
-        MongoDB (Mongoose) – Firebase - Postgresql
-      </td>
-      <td style="vertical-align: top; padding: 10px; width: 50%;">
-        Git – GitHub<br/>
-        Figma – Postman<br/>
-        Vercel – Netlify
-      </td>
-    </tr>
-  </table>
-</div> -->
+I work across the full product surface — designing schemas and APIs, building the interfaces on top of them, and wiring in **LLM and RAG features** so they hold up in production rather than in a demo. I also contribute to open source Python libraries, which is where a lot of my instinct for clean interfaces and careful debugging comes from.
 
 ---
 
-<h3 style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+<h3>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" alt="Parrot" />
   Languages and Tools
 </h3>
-<!-- <p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p> -->
-
-<!-- <table>
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/>
-</td>
-</tr>
-
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/>
-  <img src="https://cdn.simpleicons.org/socketdotio" width="40" height="40" alt="WebSocket"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL"/>
-</td>
-</tr>
-
-<tr>
-<td><strong>Database</strong></td>
-<td>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"/>
-</td>
-</tr>
-
-<tr>
-<td><strong>AI / Python</strong></td>
-<td>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
-  <img src="https://avatars.githubusercontent.com/u/14957082?s=80&v=4" width="40" height="40" style="border-radius:6px;" alt="OpenAI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-</td>
-</tr>
-
-<tr>
-<td><strong>DevOps & Tools</strong></td>
-<td>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
-  <img src="https://cdn.simpleicons.org/railway" width="40" height="40" alt="Railway"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
-</td>
-</tr>
-</table> -->
 
 <table>
 <tr>
@@ -172,14 +56,14 @@ AI-Enabled Full Stack Engineer with 2.5+ years building scalable SaaS, APIs, and
 <td>
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></td>
 <td><img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" alt="Tailwind CSS"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/></td>
 </tr>
 </table>
 </td>
@@ -193,7 +77,7 @@ AI-Enabled Full Stack Engineer with 2.5+ years building scalable SaaS, APIs, and
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/></td>
-<td><img src="https://cdn.simpleicons.org/socketdotio" width="40" height="40" alt="WebSocket"/></td>
+<td><img src="https://cdn.simpleicons.org/socketdotio" width="40" height="40" alt="Socket.IO"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL"/></td>
 </tr>
 </table>
@@ -214,14 +98,16 @@ AI-Enabled Full Stack Engineer with 2.5+ years building scalable SaaS, APIs, and
 </tr>
 
 <tr>
-<td><strong>AI / Python</strong></td>
+<td><strong>AI &amp; Python</strong></td>
 <td>
 <table>
 <tr>
+<td><img src="https://avatars.githubusercontent.com/u/14957082?s=80&v=4" width="40" height="40" alt="OpenAI"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/></td>
-<td><img src="https://avatars.githubusercontent.com/u/14957082?s=80&v=4" width="40" height="40" style="border-radius:6px;" alt="OpenAI"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></td>
+<td><img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="Hugging Face"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/></td>
 </tr>
 </table>
@@ -229,11 +115,12 @@ AI-Enabled Full Stack Engineer with 2.5+ years building scalable SaaS, APIs, and
 </tr>
 
 <tr>
-<td><strong>DevOps & Tools</strong></td>
+<td><strong>DevOps &amp; Tools</strong></td>
 <td>
 <table>
 <tr>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/></td>
 <td><img src="https://cdn.simpleicons.org/railway" width="40" height="40" alt="Railway"/></td>
@@ -245,88 +132,77 @@ AI-Enabled Full Stack Engineer with 2.5+ years building scalable SaaS, APIs, and
 </table>
 
 ---
-<h3 style="display: flex; align-items: center; gap: 8px;">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+
+<h3>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30" alt="Open Source Parrot" />
   Open Source
 </h3>
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
+<p>
+  <img src="https://img.shields.io/badge/Merged_Pull_Requests-41-2ea44f?style=flat-square&logo=git&logoColor=white" alt="41 merged pull requests"/>
+  <img src="https://img.shields.io/badge/Upstream_Repositories-8-0969da?style=flat-square&logo=github&logoColor=white" alt="8 upstream repositories"/>
+  <img src="https://img.shields.io/badge/Named_in-6_Releases-8250df?style=flat-square" alt="Named in 6 upstream releases"/>
+  <img src="https://img.shields.io/badge/Combined_Repo_Stars-112k+-bf8700?style=flat-square" alt="112000 combined repository stars"/>
+</p>
 
-<!-- <p align="left">
-
-<a href="https://numpy.org/" target="_blank" style="text-decoration:none; border:none;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-</a>
-
-<a href="https://github.com/pgmpy/pgmpy" target="_blank" style="text-decoration:none; border:none;">
-  <img src="https://avatars.githubusercontent.com/u/13051295?s=200&v=4" width="40" height="40" alt="pgmpy"/>
-</a>
-
-<a href="https://github.com/skrub-data/skrub" target="_blank" style="text-decoration:none; border:none;">
-  <img src="https://avatars.githubusercontent.com/u/115843051?s=200&v=4" width="40" height="40" alt="skrub"/>
-</a>
-
-<a href="https://github.com/sktime/sktime" target="_blank" style="text-decoration:none; border:none;">
-  <img src="https://avatars.githubusercontent.com/u/56396127?s=200&v=4" width="40" height="40" alt="sktime"/>
-</a>
-
-</p> -->
-
-
-<p align="left">
 <table>
 <tr>
-<td>
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-</a>
+<td align="center" width="90">
+  <a href="https://github.com/numpy/numpy" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br/><sub><b>NumPy</b></sub>
+  </a>
 </td>
-
-<td>
-<a href="https://github.com/pgmpy/pgmpy" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/13051295?s=200&v=4" width="40" height="40"/>
-</a>
+<td align="center" width="90">
+  <a href="https://github.com/scipy/scipy" target="_blank">
+    <img src="https://cdn.simpleicons.org/scipy" width="40" height="40" alt="SciPy"/><br/><sub><b>SciPy</b></sub>
+  </a>
 </td>
-
-<td>
-<a href="https://github.com/skrub-data/skrub" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/115843051?s=200&v=4" width="40" height="40"/>
-</a>
+<td align="center" width="90">
+  <a href="https://github.com/pandas-dev/pandas" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/><br/><sub><b>pandas</b></sub>
+  </a>
 </td>
-
-<td>
-<a href="https://github.com/sktime/sktime" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/56396127?s=200&v=4" width="40" height="40"/>
-</a>
+<td align="center" width="90">
+  <a href="https://github.com/sktime/sktime" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/56396127?s=200&v=4" width="40" height="40" alt="sktime"/><br/><sub><b>sktime</b></sub>
+  </a>
+</td>
+<td align="center" width="90">
+  <a href="https://github.com/pgmpy/pgmpy" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/13051295?s=200&v=4" width="40" height="40" alt="pgmpy"/><br/><sub><b>pgmpy</b></sub>
+  </a>
+</td>
+<td align="center" width="90">
+  <a href="https://github.com/skrub-data/skrub" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/115843051?s=200&v=4" width="40" height="40" alt="skrub"/><br/><sub><b>skrub</b></sub>
+  </a>
+</td>
+<td align="center" width="90">
+  <a href="https://github.com/aden-hive/hive" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/262650699?s=200&v=4" width="40" height="40" alt="Hive"/><br/><sub><b>Hive</b></sub>
+  </a>
 </td>
 </tr>
 </table>
+
+**Named in the release notes of six shipped versions:**
+`skrub 0.7.2` · `skrub 0.9.0` · `pgmpy v1.1.0` · `sktime v1.0.0` · `skpro v2.12.0` · `Hive v0.6.0`
+
+Highlights: two new parameters in skrub's public API · a `ChronosForecaster` fix that unblocked a failing sktime CI job · a convergence guard stopping `AutoETS` from selecting unstable models · a corrected rotation formula in SciPy's docs · 27 merged PRs building out pgmpy's `datasets` and `example_models` modules.
+
+<p>
+  <a href="https://github.com/sabasiddique1/oss-contributions" target="_blank">
+    <img src="https://img.shields.io/badge/Read_the_full_contribution_record-181717?style=for-the-badge&logo=github&logoColor=white" alt="Full open source contribution record"/>
+  </a>
 </p>
-
-
-Recognized in official releases (skrub v0.7.2), (adenhive v0.6.2), (pgmpy v1.1.0) and (sktime v0.40.1)
 
 ---
 
-<h3 style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://cultofthepartyparrot.com/guests/hd/partyfsjal.gif" width="30" height="30"/>
-    Fun Fact
+<h3>
+  <img src="https://cultofthepartyparrot.com/guests/hd/partyfsjal.gif" width="30" height="30" alt="Party Parrot" />
+  Fun Fact
 </h3>
 
 <blockquote>
   <code>From zero to deploying on Vercel like a pro — turns out passion compiles perfectly.</code>
 </blockquote>
-
-
-<!--
-Full Stack Engineer
-React Developer
-Next.js Developer
-Node.js Engineer
-NestJS Developer
-PostgreSQL
-TypeScript
-Python AI Engineer
-Open Source Contributor
-Applied AI engineer
--->
