@@ -41,7 +41,7 @@
 
 **AI-Enabled Full Stack Engineer** building scalable SaaS products, REST and GraphQL APIs, and AI-integrated web applications **since 2022**, using **React, Next.js, Node.js, NestJS, PostgreSQL and Python**.
 
-I work across the full product surface — designing schemas and APIs, building the interfaces on top of them, and wiring in **LLM and RAG features** so they hold up in production rather than in a demo. I also contribute to open source Python libraries, which is where a lot of my instinct for clean interfaces and careful debugging comes from.
+I work across the full product surface -- designing schemas and APIs, building the interfaces on top of them, and wiring in **LLM and RAG features** so they hold up in production rather than in a demo. I also contribute to open source Python libraries, which is where a lot of my instinct for clean interfaces and careful debugging comes from.
 
 ---
 
